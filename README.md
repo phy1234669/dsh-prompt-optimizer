@@ -47,7 +47,7 @@ dsh --version
 ### 第 1 步：拿到这个项目
 
 ```bash
-git clone https://github.com/hyzyn/dsh-prompt-optimizer.git
+git clone https://github.com/phy1234669/dsh-prompt-optimizer.git
 ```
 
 没有 git 也可以用 GitHub 页面上的 **Code → Download ZIP**，解压到任意目录。下面把解压/克隆后的目录称为 `<插件目录>`。
